@@ -1,2 +1,26 @@
-# 03cd8184-logistics-last-mile-delivery-o
-An n8n workflow for last-mile delivery operations automating driver dispatch and route optimization. Ingests new order data from WooCommerce or Shopify, groups orders by geographic cluster, generates optimized route sequences using distance and time window constraints, dispatches assignments to drivers via Telegram or WhatsApp, tracks delivery conf
+# Logistics Last Mile Delivery Optimization and Driver Dispatch Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://cleargum.gumroad.com/l/sotaee)**
+
