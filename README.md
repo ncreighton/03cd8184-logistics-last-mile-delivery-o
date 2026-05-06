@@ -2,6 +2,7 @@
 
 
 
+
 ---
 
 ## Free vs Pro
@@ -22,5 +23,9 @@
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://cleargum.gumroad.com/l/sotaee)**
+**[Get Pro Version](https://buy.stripe.com/5kQ7sL12D3o83lmavOcZa0H)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/5kQ7sL12D3o83lmavOcZa0H)
+- [Buy on Gumroad](https://cleargum.gumroad.com/l/sotaee)
+- [Buy on Whop](https://whop.com/logistics-last-mile-delivery-optimization-and-driver-dispatch-workflow)
 
